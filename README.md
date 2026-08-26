@@ -25,6 +25,7 @@ Pharmacy Management System API built with ASP.Net Core Web API &amp; Onion Archi
 - Filtering & Searching
 - Pagination
 - Sorting
+- Global Exception Handling
 - Data Seeding
 - Fluent API Configurations
 
