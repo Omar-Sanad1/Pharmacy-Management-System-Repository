@@ -1,0 +1,452 @@
+﻿[
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient requires the prescribed medication according to the doctor's instructions.",
+    "PrescriptionDate": "2026-01-05T00:00:00",
+    "ExpirationDate": "2026-02-04T00:00:00",
+    "DoctorID": 1,
+    "EmployeeID": 1,
+    "CustomerID": 1
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Take medication after meals and follow the prescribed dosage.",
+    "PrescriptionDate": "2026-01-09T00:00:00",
+    "ExpirationDate": "2026-02-08T00:00:00",
+    "DoctorID": 2,
+    "EmployeeID": 4,
+    "CustomerID": 2
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to complete the full treatment course.",
+    "PrescriptionDate": "2026-01-13T00:00:00",
+    "ExpirationDate": "2026-02-12T00:00:00",
+    "DoctorID": 3,
+    "EmployeeID": 7,
+    "CustomerID": 3
+  },
+  {
+    "PrescriptionStatus": "Pending",
+    "Notes": "Follow-up consultation recommended if symptoms persist.",
+    "PrescriptionDate": "2026-01-17T00:00:00",
+    "ExpirationDate": "2026-02-16T00:00:00",
+    "DoctorID": 4,
+    "EmployeeID": 10,
+    "CustomerID": 4
+  },
+  {
+    "PrescriptionStatus": "Rejected",
+    "Notes": "Prescription verified by the pharmacist before dispensing.",
+    "PrescriptionDate": "2026-01-21T00:00:00",
+    "ExpirationDate": "2026-02-20T00:00:00",
+    "DoctorID": 5,
+    "EmployeeID": 13,
+    "CustomerID": 5
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to avoid missed doses.",
+    "PrescriptionDate": "2026-01-25T00:00:00",
+    "ExpirationDate": "2026-02-24T00:00:00",
+    "DoctorID": 6,
+    "EmployeeID": 15,
+    "CustomerID": 6
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Medication should be stored according to package instructions.",
+    "PrescriptionDate": "2026-01-29T00:00:00",
+    "ExpirationDate": "2026-02-28T00:00:00",
+    "DoctorID": 7,
+    "EmployeeID": 18,
+    "CustomerID": 7
+  },
+  {
+    "PrescriptionStatus": "Expired",
+    "Notes": "Doctor recommended follow-up after completing the treatment.",
+    "PrescriptionDate": "2026-02-02T00:00:00",
+    "ExpirationDate": "2026-02-09T00:00:00",
+    "DoctorID": 8,
+    "EmployeeID": 21,
+    "CustomerID": 8
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient requires the prescribed medication according to the doctor's instructions.",
+    "PrescriptionDate": "2026-02-06T00:00:00",
+    "ExpirationDate": "2026-03-08T00:00:00",
+    "DoctorID": 9,
+    "EmployeeID": 23,
+    "CustomerID": 9
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Take medication after meals and follow the prescribed dosage.",
+    "PrescriptionDate": "2026-02-10T00:00:00",
+    "ExpirationDate": "2026-03-12T00:00:00",
+    "DoctorID": 10,
+    "EmployeeID": 26,
+    "CustomerID": 10
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to complete the full treatment course.",
+    "PrescriptionDate": "2026-02-14T00:00:00",
+    "ExpirationDate": "2026-03-16T00:00:00",
+    "DoctorID": 11,
+    "EmployeeID": 29,
+    "CustomerID": 11
+  },
+  {
+    "PrescriptionStatus": "Pending",
+    "Notes": "Follow-up consultation recommended if symptoms persist.",
+    "PrescriptionDate": "2026-02-18T00:00:00",
+    "ExpirationDate": "2026-03-20T00:00:00",
+    "DoctorID": 12,
+    "EmployeeID": 32,
+    "CustomerID": 12
+  },
+  {
+    "PrescriptionStatus": "Rejected",
+    "Notes": "Prescription verified by the pharmacist before dispensing.",
+    "PrescriptionDate": "2026-02-22T00:00:00",
+    "ExpirationDate": "2026-03-24T00:00:00",
+    "DoctorID": 13,
+    "EmployeeID": 35,
+    "CustomerID": 13
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to avoid missed doses.",
+    "PrescriptionDate": "2026-02-26T00:00:00",
+    "ExpirationDate": "2026-03-28T00:00:00",
+    "DoctorID": 14,
+    "EmployeeID": 38,
+    "CustomerID": 14
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Medication should be stored according to package instructions.",
+    "PrescriptionDate": "2026-03-02T00:00:00",
+    "ExpirationDate": "2026-04-01T00:00:00",
+    "DoctorID": 15,
+    "EmployeeID": 40,
+    "CustomerID": 15
+  },
+  {
+    "PrescriptionStatus": "Expired",
+    "Notes": "Doctor recommended follow-up after completing the treatment.",
+    "PrescriptionDate": "2026-03-06T00:00:00",
+    "ExpirationDate": "2026-03-13T00:00:00",
+    "DoctorID": 16,
+    "EmployeeID": 43,
+    "CustomerID": 16
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient requires the prescribed medication according to the doctor's instructions.",
+    "PrescriptionDate": "2026-03-10T00:00:00",
+    "ExpirationDate": "2026-04-09T00:00:00",
+    "DoctorID": 17,
+    "EmployeeID": 46,
+    "CustomerID": 17
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Take medication after meals and follow the prescribed dosage.",
+    "PrescriptionDate": "2026-03-14T00:00:00",
+    "ExpirationDate": "2026-04-13T00:00:00",
+    "DoctorID": 18,
+    "EmployeeID": 49,
+    "CustomerID": 18
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to complete the full treatment course.",
+    "PrescriptionDate": "2026-03-18T00:00:00",
+    "ExpirationDate": "2026-04-17T00:00:00",
+    "DoctorID": 19,
+    "EmployeeID": 1,
+    "CustomerID": 19
+  },
+  {
+    "PrescriptionStatus": "Pending",
+    "Notes": "Follow-up consultation recommended if symptoms persist.",
+    "PrescriptionDate": "2026-03-22T00:00:00",
+    "ExpirationDate": "2026-04-21T00:00:00",
+    "DoctorID": 20,
+    "EmployeeID": 4,
+    "CustomerID": 20
+  },
+  {
+    "PrescriptionStatus": "Rejected",
+    "Notes": "Prescription verified by the pharmacist before dispensing.",
+    "PrescriptionDate": "2026-03-26T00:00:00",
+    "ExpirationDate": "2026-04-25T00:00:00",
+    "DoctorID": 21,
+    "EmployeeID": 7,
+    "CustomerID": 21
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to avoid missed doses.",
+    "PrescriptionDate": "2026-03-30T00:00:00",
+    "ExpirationDate": "2026-04-29T00:00:00",
+    "DoctorID": 22,
+    "EmployeeID": 10,
+    "CustomerID": 22
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Medication should be stored according to package instructions.",
+    "PrescriptionDate": "2026-04-03T00:00:00",
+    "ExpirationDate": "2026-05-03T00:00:00",
+    "DoctorID": 23,
+    "EmployeeID": 13,
+    "CustomerID": 23
+  },
+  {
+    "PrescriptionStatus": "Expired",
+    "Notes": "Doctor recommended follow-up after completing the treatment.",
+    "PrescriptionDate": "2026-04-07T00:00:00",
+    "ExpirationDate": "2026-04-14T00:00:00",
+    "DoctorID": 24,
+    "EmployeeID": 15,
+    "CustomerID": 24
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient requires the prescribed medication according to the doctor's instructions.",
+    "PrescriptionDate": "2026-04-11T00:00:00",
+    "ExpirationDate": "2026-05-11T00:00:00",
+    "DoctorID": 25,
+    "EmployeeID": 18,
+    "CustomerID": 25
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Take medication after meals and follow the prescribed dosage.",
+    "PrescriptionDate": "2026-04-15T00:00:00",
+    "ExpirationDate": "2026-05-15T00:00:00",
+    "DoctorID": 26,
+    "EmployeeID": 21,
+    "CustomerID": 26
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to complete the full treatment course.",
+    "PrescriptionDate": "2026-04-19T00:00:00",
+    "ExpirationDate": "2026-05-19T00:00:00",
+    "DoctorID": 27,
+    "EmployeeID": 23,
+    "CustomerID": 27
+  },
+  {
+    "PrescriptionStatus": "Pending",
+    "Notes": "Follow-up consultation recommended if symptoms persist.",
+    "PrescriptionDate": "2026-04-23T00:00:00",
+    "ExpirationDate": "2026-05-23T00:00:00",
+    "DoctorID": 28,
+    "EmployeeID": 26,
+    "CustomerID": 28
+  },
+  {
+    "PrescriptionStatus": "Rejected",
+    "Notes": "Prescription verified by the pharmacist before dispensing.",
+    "PrescriptionDate": "2026-04-27T00:00:00",
+    "ExpirationDate": "2026-05-27T00:00:00",
+    "DoctorID": 29,
+    "EmployeeID": 29,
+    "CustomerID": 29
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to avoid missed doses.",
+    "PrescriptionDate": "2026-05-01T00:00:00",
+    "ExpirationDate": "2026-05-31T00:00:00",
+    "DoctorID": 30,
+    "EmployeeID": 32,
+    "CustomerID": 30
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Medication should be stored according to package instructions.",
+    "PrescriptionDate": "2026-05-05T00:00:00",
+    "ExpirationDate": "2026-06-04T00:00:00",
+    "DoctorID": 31,
+    "EmployeeID": 35,
+    "CustomerID": 31
+  },
+  {
+    "PrescriptionStatus": "Expired",
+    "Notes": "Doctor recommended follow-up after completing the treatment.",
+    "PrescriptionDate": "2026-05-09T00:00:00",
+    "ExpirationDate": "2026-05-16T00:00:00",
+    "DoctorID": 32,
+    "EmployeeID": 38,
+    "CustomerID": 32
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient requires the prescribed medication according to the doctor's instructions.",
+    "PrescriptionDate": "2026-05-13T00:00:00",
+    "ExpirationDate": "2026-06-12T00:00:00",
+    "DoctorID": 33,
+    "EmployeeID": 40,
+    "CustomerID": 33
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Take medication after meals and follow the prescribed dosage.",
+    "PrescriptionDate": "2026-05-17T00:00:00",
+    "ExpirationDate": "2026-06-16T00:00:00",
+    "DoctorID": 34,
+    "EmployeeID": 43,
+    "CustomerID": 34
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to complete the full treatment course.",
+    "PrescriptionDate": "2026-05-21T00:00:00",
+    "ExpirationDate": "2026-06-20T00:00:00",
+    "DoctorID": 35,
+    "EmployeeID": 46,
+    "CustomerID": 35
+  },
+  {
+    "PrescriptionStatus": "Pending",
+    "Notes": "Follow-up consultation recommended if symptoms persist.",
+    "PrescriptionDate": "2026-05-25T00:00:00",
+    "ExpirationDate": "2026-06-24T00:00:00",
+    "DoctorID": 36,
+    "EmployeeID": 49,
+    "CustomerID": 36
+  },
+  {
+    "PrescriptionStatus": "Rejected",
+    "Notes": "Prescription verified by the pharmacist before dispensing.",
+    "PrescriptionDate": "2026-05-29T00:00:00",
+    "ExpirationDate": "2026-06-28T00:00:00",
+    "DoctorID": 37,
+    "EmployeeID": 1,
+    "CustomerID": 37
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to avoid missed doses.",
+    "PrescriptionDate": "2026-06-02T00:00:00",
+    "ExpirationDate": "2026-07-02T00:00:00",
+    "DoctorID": 38,
+    "EmployeeID": 4,
+    "CustomerID": 38
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Medication should be stored according to package instructions.",
+    "PrescriptionDate": "2026-06-06T00:00:00",
+    "ExpirationDate": "2026-07-06T00:00:00",
+    "DoctorID": 39,
+    "EmployeeID": 7,
+    "CustomerID": 39
+  },
+  {
+    "PrescriptionStatus": "Expired",
+    "Notes": "Doctor recommended follow-up after completing the treatment.",
+    "PrescriptionDate": "2026-06-10T00:00:00",
+    "ExpirationDate": "2026-06-17T00:00:00",
+    "DoctorID": 40,
+    "EmployeeID": 10,
+    "CustomerID": 40
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient requires the prescribed medication according to the doctor's instructions.",
+    "PrescriptionDate": "2026-06-14T00:00:00",
+    "ExpirationDate": "2026-07-14T00:00:00",
+    "DoctorID": 41,
+    "EmployeeID": 13,
+    "CustomerID": 41
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Take medication after meals and follow the prescribed dosage.",
+    "PrescriptionDate": "2026-06-18T00:00:00",
+    "ExpirationDate": "2026-07-18T00:00:00",
+    "DoctorID": 42,
+    "EmployeeID": 15,
+    "CustomerID": 42
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to complete the full treatment course.",
+    "PrescriptionDate": "2026-06-22T00:00:00",
+    "ExpirationDate": "2026-07-22T00:00:00",
+    "DoctorID": 43,
+    "EmployeeID": 18,
+    "CustomerID": 43
+  },
+  {
+    "PrescriptionStatus": "Pending",
+    "Notes": "Follow-up consultation recommended if symptoms persist.",
+    "PrescriptionDate": "2026-06-26T00:00:00",
+    "ExpirationDate": "2026-07-26T00:00:00",
+    "DoctorID": 44,
+    "EmployeeID": 21,
+    "CustomerID": 44
+  },
+  {
+    "PrescriptionStatus": "Rejected",
+    "Notes": "Prescription verified by the pharmacist before dispensing.",
+    "PrescriptionDate": "2026-06-30T00:00:00",
+    "ExpirationDate": "2026-07-30T00:00:00",
+    "DoctorID": 45,
+    "EmployeeID": 23,
+    "CustomerID": 45
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient advised to avoid missed doses.",
+    "PrescriptionDate": "2026-07-04T00:00:00",
+    "ExpirationDate": "2026-08-03T00:00:00",
+    "DoctorID": 46,
+    "EmployeeID": 26,
+    "CustomerID": 46
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Medication should be stored according to package instructions.",
+    "PrescriptionDate": "2026-07-08T00:00:00",
+    "ExpirationDate": "2026-08-07T00:00:00",
+    "DoctorID": 47,
+    "EmployeeID": 29,
+    "CustomerID": 47
+  },
+  {
+    "PrescriptionStatus": "Expired",
+    "Notes": "Doctor recommended follow-up after completing the treatment.",
+    "PrescriptionDate": "2026-07-12T00:00:00",
+    "ExpirationDate": "2026-07-19T00:00:00",
+    "DoctorID": 48,
+    "EmployeeID": 32,
+    "CustomerID": 48
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Patient requires the prescribed medication according to the doctor's instructions.",
+    "PrescriptionDate": "2026-07-16T00:00:00",
+    "ExpirationDate": "2026-08-15T00:00:00",
+    "DoctorID": 49,
+    "EmployeeID": 35,
+    "CustomerID": 49
+  },
+  {
+    "PrescriptionStatus": "Approved",
+    "Notes": "Take medication after meals and follow the prescribed dosage.",
+    "PrescriptionDate": "2026-07-20T00:00:00",
+    "ExpirationDate": "2026-08-19T00:00:00",
+    "DoctorID": 50,
+    "EmployeeID": 38,
+    "CustomerID": 50
+  }
+]

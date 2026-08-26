@@ -1,0 +1,502 @@
+﻿[
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 850.0,
+    "OrderDate": "2026-01-03T00:00:00",
+    "ExpectedDeliveryDate": "2026-01-08T00:00:00",
+    "SupplierID": 1,
+    "BranchID": 1
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 987.45,
+    "OrderDate": "2026-01-06T00:00:00",
+    "ExpectedDeliveryDate": "2026-01-13T00:00:00",
+    "SupplierID": 2,
+    "BranchID": 2
+  },
+  {
+    "ApprovalStatus": "Pending",
+    "PaymentStatus": "Pending",
+    "PurchaseOrderStatus": "Pending",
+    "TotalAmount": 1124.9,
+    "OrderDate": "2026-01-09T00:00:00",
+    "ExpectedDeliveryDate": "2026-01-19T00:00:00",
+    "SupplierID": 3,
+    "BranchID": 3
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Received",
+    "TotalAmount": 1262.35,
+    "OrderDate": "2026-01-12T00:00:00",
+    "ExpectedDeliveryDate": "2026-01-16T00:00:00",
+    "SupplierID": 4,
+    "BranchID": 4
+  },
+  {
+    "ApprovalStatus": "Rejected",
+    "PaymentStatus": "Unpaid",
+    "PurchaseOrderStatus": "Cancelled",
+    "TotalAmount": 1399.8,
+    "OrderDate": "2026-01-15T00:00:00",
+    "ExpectedDeliveryDate": "2026-01-23T00:00:00",
+    "SupplierID": 5,
+    "BranchID": 5
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 1537.25,
+    "OrderDate": "2026-01-18T00:00:00",
+    "ExpectedDeliveryDate": "2026-01-23T00:00:00",
+    "SupplierID": 6,
+    "BranchID": 6
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 1674.7,
+    "OrderDate": "2026-01-21T00:00:00",
+    "ExpectedDeliveryDate": "2026-01-28T00:00:00",
+    "SupplierID": 7,
+    "BranchID": 7
+  },
+  {
+    "ApprovalStatus": "Pending",
+    "PaymentStatus": "Pending",
+    "PurchaseOrderStatus": "Pending",
+    "TotalAmount": 1812.15,
+    "OrderDate": "2026-01-24T00:00:00",
+    "ExpectedDeliveryDate": "2026-02-03T00:00:00",
+    "SupplierID": 8,
+    "BranchID": 8
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Received",
+    "TotalAmount": 1949.6,
+    "OrderDate": "2026-01-27T00:00:00",
+    "ExpectedDeliveryDate": "2026-01-31T00:00:00",
+    "SupplierID": 9,
+    "BranchID": 9
+  },
+  {
+    "ApprovalStatus": "Rejected",
+    "PaymentStatus": "Unpaid",
+    "PurchaseOrderStatus": "Cancelled",
+    "TotalAmount": 2087.05,
+    "OrderDate": "2026-01-30T00:00:00",
+    "ExpectedDeliveryDate": "2026-02-07T00:00:00",
+    "SupplierID": 10,
+    "BranchID": 10
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 2224.5,
+    "OrderDate": "2026-02-02T00:00:00",
+    "ExpectedDeliveryDate": "2026-02-07T00:00:00",
+    "SupplierID": 11,
+    "BranchID": 11
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 2361.95,
+    "OrderDate": "2026-02-05T00:00:00",
+    "ExpectedDeliveryDate": "2026-02-12T00:00:00",
+    "SupplierID": 12,
+    "BranchID": 12
+  },
+  {
+    "ApprovalStatus": "Pending",
+    "PaymentStatus": "Pending",
+    "PurchaseOrderStatus": "Pending",
+    "TotalAmount": 2499.4,
+    "OrderDate": "2026-02-08T00:00:00",
+    "ExpectedDeliveryDate": "2026-02-18T00:00:00",
+    "SupplierID": 13,
+    "BranchID": 13
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Received",
+    "TotalAmount": 2636.85,
+    "OrderDate": "2026-02-11T00:00:00",
+    "ExpectedDeliveryDate": "2026-02-15T00:00:00",
+    "SupplierID": 14,
+    "BranchID": 14
+  },
+  {
+    "ApprovalStatus": "Rejected",
+    "PaymentStatus": "Unpaid",
+    "PurchaseOrderStatus": "Cancelled",
+    "TotalAmount": 2774.3,
+    "OrderDate": "2026-02-14T00:00:00",
+    "ExpectedDeliveryDate": "2026-02-22T00:00:00",
+    "SupplierID": 15,
+    "BranchID": 15
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 2911.75,
+    "OrderDate": "2026-02-17T00:00:00",
+    "ExpectedDeliveryDate": "2026-02-22T00:00:00",
+    "SupplierID": 16,
+    "BranchID": 16
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 3049.2,
+    "OrderDate": "2026-02-20T00:00:00",
+    "ExpectedDeliveryDate": "2026-02-27T00:00:00",
+    "SupplierID": 17,
+    "BranchID": 17
+  },
+  {
+    "ApprovalStatus": "Pending",
+    "PaymentStatus": "Pending",
+    "PurchaseOrderStatus": "Pending",
+    "TotalAmount": 3186.65,
+    "OrderDate": "2026-02-23T00:00:00",
+    "ExpectedDeliveryDate": "2026-03-05T00:00:00",
+    "SupplierID": 18,
+    "BranchID": 18
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Received",
+    "TotalAmount": 3324.1,
+    "OrderDate": "2026-02-26T00:00:00",
+    "ExpectedDeliveryDate": "2026-03-02T00:00:00",
+    "SupplierID": 19,
+    "BranchID": 19
+  },
+  {
+    "ApprovalStatus": "Rejected",
+    "PaymentStatus": "Unpaid",
+    "PurchaseOrderStatus": "Cancelled",
+    "TotalAmount": 3461.55,
+    "OrderDate": "2026-03-01T00:00:00",
+    "ExpectedDeliveryDate": "2026-03-09T00:00:00",
+    "SupplierID": 20,
+    "BranchID": 20
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 3599.0,
+    "OrderDate": "2026-03-04T00:00:00",
+    "ExpectedDeliveryDate": "2026-03-09T00:00:00",
+    "SupplierID": 21,
+    "BranchID": 21
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 3736.45,
+    "OrderDate": "2026-03-07T00:00:00",
+    "ExpectedDeliveryDate": "2026-03-14T00:00:00",
+    "SupplierID": 22,
+    "BranchID": 22
+  },
+  {
+    "ApprovalStatus": "Pending",
+    "PaymentStatus": "Pending",
+    "PurchaseOrderStatus": "Pending",
+    "TotalAmount": 3873.9,
+    "OrderDate": "2026-03-10T00:00:00",
+    "ExpectedDeliveryDate": "2026-03-20T00:00:00",
+    "SupplierID": 23,
+    "BranchID": 23
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Received",
+    "TotalAmount": 4011.35,
+    "OrderDate": "2026-03-13T00:00:00",
+    "ExpectedDeliveryDate": "2026-03-17T00:00:00",
+    "SupplierID": 24,
+    "BranchID": 24
+  },
+  {
+    "ApprovalStatus": "Rejected",
+    "PaymentStatus": "Unpaid",
+    "PurchaseOrderStatus": "Cancelled",
+    "TotalAmount": 4148.8,
+    "OrderDate": "2026-03-16T00:00:00",
+    "ExpectedDeliveryDate": "2026-03-24T00:00:00",
+    "SupplierID": 25,
+    "BranchID": 25
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 4286.25,
+    "OrderDate": "2026-03-19T00:00:00",
+    "ExpectedDeliveryDate": "2026-03-24T00:00:00",
+    "SupplierID": 26,
+    "BranchID": 26
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 4423.7,
+    "OrderDate": "2026-03-22T00:00:00",
+    "ExpectedDeliveryDate": "2026-03-29T00:00:00",
+    "SupplierID": 27,
+    "BranchID": 27
+  },
+  {
+    "ApprovalStatus": "Pending",
+    "PaymentStatus": "Pending",
+    "PurchaseOrderStatus": "Pending",
+    "TotalAmount": 4561.15,
+    "OrderDate": "2026-03-25T00:00:00",
+    "ExpectedDeliveryDate": "2026-04-04T00:00:00",
+    "SupplierID": 28,
+    "BranchID": 28
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Received",
+    "TotalAmount": 4698.6,
+    "OrderDate": "2026-03-28T00:00:00",
+    "ExpectedDeliveryDate": "2026-04-01T00:00:00",
+    "SupplierID": 29,
+    "BranchID": 29
+  },
+  {
+    "ApprovalStatus": "Rejected",
+    "PaymentStatus": "Unpaid",
+    "PurchaseOrderStatus": "Cancelled",
+    "TotalAmount": 4836.05,
+    "OrderDate": "2026-03-31T00:00:00",
+    "ExpectedDeliveryDate": "2026-04-08T00:00:00",
+    "SupplierID": 30,
+    "BranchID": 30
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 4973.5,
+    "OrderDate": "2026-04-03T00:00:00",
+    "ExpectedDeliveryDate": "2026-04-08T00:00:00",
+    "SupplierID": 31,
+    "BranchID": 31
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 5110.95,
+    "OrderDate": "2026-04-06T00:00:00",
+    "ExpectedDeliveryDate": "2026-04-13T00:00:00",
+    "SupplierID": 32,
+    "BranchID": 32
+  },
+  {
+    "ApprovalStatus": "Pending",
+    "PaymentStatus": "Pending",
+    "PurchaseOrderStatus": "Pending",
+    "TotalAmount": 5248.4,
+    "OrderDate": "2026-04-09T00:00:00",
+    "ExpectedDeliveryDate": "2026-04-19T00:00:00",
+    "SupplierID": 33,
+    "BranchID": 33
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Received",
+    "TotalAmount": 5385.85,
+    "OrderDate": "2026-04-12T00:00:00",
+    "ExpectedDeliveryDate": "2026-04-16T00:00:00",
+    "SupplierID": 34,
+    "BranchID": 34
+  },
+  {
+    "ApprovalStatus": "Rejected",
+    "PaymentStatus": "Unpaid",
+    "PurchaseOrderStatus": "Cancelled",
+    "TotalAmount": 5523.3,
+    "OrderDate": "2026-04-15T00:00:00",
+    "ExpectedDeliveryDate": "2026-04-23T00:00:00",
+    "SupplierID": 35,
+    "BranchID": 35
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 5660.75,
+    "OrderDate": "2026-04-18T00:00:00",
+    "ExpectedDeliveryDate": "2026-04-23T00:00:00",
+    "SupplierID": 36,
+    "BranchID": 36
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 5798.2,
+    "OrderDate": "2026-04-21T00:00:00",
+    "ExpectedDeliveryDate": "2026-04-28T00:00:00",
+    "SupplierID": 37,
+    "BranchID": 37
+  },
+  {
+    "ApprovalStatus": "Pending",
+    "PaymentStatus": "Pending",
+    "PurchaseOrderStatus": "Pending",
+    "TotalAmount": 5935.65,
+    "OrderDate": "2026-04-24T00:00:00",
+    "ExpectedDeliveryDate": "2026-05-04T00:00:00",
+    "SupplierID": 38,
+    "BranchID": 38
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Received",
+    "TotalAmount": 6073.1,
+    "OrderDate": "2026-04-27T00:00:00",
+    "ExpectedDeliveryDate": "2026-05-01T00:00:00",
+    "SupplierID": 39,
+    "BranchID": 39
+  },
+  {
+    "ApprovalStatus": "Rejected",
+    "PaymentStatus": "Unpaid",
+    "PurchaseOrderStatus": "Cancelled",
+    "TotalAmount": 6210.55,
+    "OrderDate": "2026-04-30T00:00:00",
+    "ExpectedDeliveryDate": "2026-05-08T00:00:00",
+    "SupplierID": 40,
+    "BranchID": 40
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 6348.0,
+    "OrderDate": "2026-05-03T00:00:00",
+    "ExpectedDeliveryDate": "2026-05-08T00:00:00",
+    "SupplierID": 41,
+    "BranchID": 41
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 6485.45,
+    "OrderDate": "2026-05-06T00:00:00",
+    "ExpectedDeliveryDate": "2026-05-13T00:00:00",
+    "SupplierID": 42,
+    "BranchID": 42
+  },
+  {
+    "ApprovalStatus": "Pending",
+    "PaymentStatus": "Pending",
+    "PurchaseOrderStatus": "Pending",
+    "TotalAmount": 6622.9,
+    "OrderDate": "2026-05-09T00:00:00",
+    "ExpectedDeliveryDate": "2026-05-19T00:00:00",
+    "SupplierID": 43,
+    "BranchID": 43
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Received",
+    "TotalAmount": 6760.35,
+    "OrderDate": "2026-05-12T00:00:00",
+    "ExpectedDeliveryDate": "2026-05-16T00:00:00",
+    "SupplierID": 44,
+    "BranchID": 44
+  },
+  {
+    "ApprovalStatus": "Rejected",
+    "PaymentStatus": "Unpaid",
+    "PurchaseOrderStatus": "Cancelled",
+    "TotalAmount": 6897.8,
+    "OrderDate": "2026-05-15T00:00:00",
+    "ExpectedDeliveryDate": "2026-05-23T00:00:00",
+    "SupplierID": 45,
+    "BranchID": 45
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 7035.25,
+    "OrderDate": "2026-05-18T00:00:00",
+    "ExpectedDeliveryDate": "2026-05-23T00:00:00",
+    "SupplierID": 46,
+    "BranchID": 46
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Completed",
+    "TotalAmount": 7172.7,
+    "OrderDate": "2026-05-21T00:00:00",
+    "ExpectedDeliveryDate": "2026-05-28T00:00:00",
+    "SupplierID": 47,
+    "BranchID": 47
+  },
+  {
+    "ApprovalStatus": "Pending",
+    "PaymentStatus": "Pending",
+    "PurchaseOrderStatus": "Pending",
+    "TotalAmount": 7310.15,
+    "OrderDate": "2026-05-24T00:00:00",
+    "ExpectedDeliveryDate": "2026-06-03T00:00:00",
+    "SupplierID": 48,
+    "BranchID": 48
+  },
+  {
+    "ApprovalStatus": "Approved",
+    "PaymentStatus": "Paid",
+    "PurchaseOrderStatus": "Received",
+    "TotalAmount": 7447.6,
+    "OrderDate": "2026-05-27T00:00:00",
+    "ExpectedDeliveryDate": "2026-05-31T00:00:00",
+    "SupplierID": 49,
+    "BranchID": 49
+  },
+  {
+    "ApprovalStatus": "Rejected",
+    "PaymentStatus": "Unpaid",
+    "PurchaseOrderStatus": "Cancelled",
+    "TotalAmount": 7585.05,
+    "OrderDate": "2026-05-30T00:00:00",
+    "ExpectedDeliveryDate": "2026-06-07T00:00:00",
+    "SupplierID": 50,
+    "BranchID": 50
+  }
+]

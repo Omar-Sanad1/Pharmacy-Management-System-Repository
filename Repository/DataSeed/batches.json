@@ -1,0 +1,551 @@
+﻿[
+  {
+    "BatchNumber": "PAN-2025-001",
+    "StorageLocation": "Shelf A-01",
+    "PurchasePrice": 42.5,
+    "ManufacturingDate": "2025-01-15T00:00:00",
+    "ExpirationDate": "2027-01-15T00:00:00",
+    "AvailableQuantity": 180,
+    "MedicineID": 1
+  },
+  {
+    "BatchNumber": "PAN-2026-002",
+    "StorageLocation": "Shelf A-01",
+    "PurchasePrice": 43.25,
+    "ManufacturingDate": "2026-03-20T00:00:00",
+    "ExpirationDate": "2028-03-20T00:00:00",
+    "AvailableQuantity": 250,
+    "MedicineID": 1
+  },
+  {
+    "BatchNumber": "PAN-2026-003",
+    "StorageLocation": "Shelf A-01",
+    "PurchasePrice": 44.0,
+    "ManufacturingDate": "2026-06-10T00:00:00",
+    "ExpirationDate": "2028-06-10T00:00:00",
+    "AvailableQuantity": 320,
+    "MedicineID": 1
+  },
+  {
+    "BatchNumber": "BRU-2025-014",
+    "StorageLocation": "Shelf A-02",
+    "PurchasePrice": 38.75,
+    "ManufacturingDate": "2025-02-10T00:00:00",
+    "ExpirationDate": "2027-02-10T00:00:00",
+    "AvailableQuantity": 140,
+    "MedicineID": 2
+  },
+  {
+    "BatchNumber": "BRU-2026-021",
+    "StorageLocation": "Shelf A-02",
+    "PurchasePrice": 40.2,
+    "ManufacturingDate": "2026-05-05T00:00:00",
+    "ExpirationDate": "2028-05-05T00:00:00",
+    "AvailableQuantity": 210,
+    "MedicineID": 2
+  },
+  {
+    "BatchNumber": "CET-2025-031",
+    "StorageLocation": "Shelf A-03",
+    "PurchasePrice": 27.5,
+    "ManufacturingDate": "2025-03-12T00:00:00",
+    "ExpirationDate": "2027-03-12T00:00:00",
+    "AvailableQuantity": 160,
+    "MedicineID": 3
+  },
+  {
+    "BatchNumber": "CET-2026-044",
+    "StorageLocation": "Shelf A-03",
+    "PurchasePrice": 29.0,
+    "ManufacturingDate": "2026-04-18T00:00:00",
+    "ExpirationDate": "2028-04-18T00:00:00",
+    "AvailableQuantity": 230,
+    "MedicineID": 3
+  },
+  {
+    "BatchNumber": "AMO-2025-052",
+    "StorageLocation": "Shelf B-01",
+    "PurchasePrice": 52.0,
+    "ManufacturingDate": "2025-04-01T00:00:00",
+    "ExpirationDate": "2027-04-01T00:00:00",
+    "AvailableQuantity": 120,
+    "MedicineID": 4
+  },
+  {
+    "BatchNumber": "AMO-2026-063",
+    "StorageLocation": "Shelf B-01",
+    "PurchasePrice": 54.5,
+    "ManufacturingDate": "2026-05-14T00:00:00",
+    "ExpirationDate": "2028-05-14T00:00:00",
+    "AvailableQuantity": 190,
+    "MedicineID": 4
+  },
+  {
+    "BatchNumber": "FLE-2025-072",
+    "StorageLocation": "Shelf B-02",
+    "PurchasePrice": 61.25,
+    "ManufacturingDate": "2025-05-22T00:00:00",
+    "ExpirationDate": "2027-05-22T00:00:00",
+    "AvailableQuantity": 95,
+    "MedicineID": 5
+  },
+  {
+    "BatchNumber": "FLE-2026-081",
+    "StorageLocation": "Shelf B-02",
+    "PurchasePrice": 63.0,
+    "ManufacturingDate": "2026-02-16T00:00:00",
+    "ExpirationDate": "2028-02-16T00:00:00",
+    "AvailableQuantity": 150,
+    "MedicineID": 5
+  },
+  {
+    "BatchNumber": "OME-2025-091",
+    "StorageLocation": "Shelf B-03",
+    "PurchasePrice": 48.5,
+    "ManufacturingDate": "2025-06-11T00:00:00",
+    "ExpirationDate": "2027-06-11T00:00:00",
+    "AvailableQuantity": 110,
+    "MedicineID": 6
+  },
+  {
+    "BatchNumber": "OME-2026-104",
+    "StorageLocation": "Shelf B-03",
+    "PurchasePrice": 50.0,
+    "ManufacturingDate": "2026-06-02T00:00:00",
+    "ExpirationDate": "2028-06-02T00:00:00",
+    "AvailableQuantity": 175,
+    "MedicineID": 6
+  },
+  {
+    "BatchNumber": "VIT-2025-115",
+    "StorageLocation": "Shelf C-01",
+    "PurchasePrice": 35.0,
+    "ManufacturingDate": "2025-07-08T00:00:00",
+    "ExpirationDate": "2027-07-08T00:00:00",
+    "AvailableQuantity": 200,
+    "MedicineID": 7
+  },
+  {
+    "BatchNumber": "VIT-2026-126",
+    "StorageLocation": "Shelf C-01",
+    "PurchasePrice": 36.75,
+    "ManufacturingDate": "2026-03-15T00:00:00",
+    "ExpirationDate": "2028-03-15T00:00:00",
+    "AvailableQuantity": 280,
+    "MedicineID": 7
+  },
+  {
+    "BatchNumber": "MET-2025-137",
+    "StorageLocation": "Shelf C-02",
+    "PurchasePrice": 24.5,
+    "ManufacturingDate": "2025-08-20T00:00:00",
+    "ExpirationDate": "2027-08-20T00:00:00",
+    "AvailableQuantity": 175,
+    "MedicineID": 8
+  },
+  {
+    "BatchNumber": "MET-2026-148",
+    "StorageLocation": "Shelf C-02",
+    "PurchasePrice": 25.8,
+    "ManufacturingDate": "2026-04-07T00:00:00",
+    "ExpirationDate": "2028-04-07T00:00:00",
+    "AvailableQuantity": 240,
+    "MedicineID": 8
+  },
+  {
+    "BatchNumber": "DIC-2025-159",
+    "StorageLocation": "Shelf C-03",
+    "PurchasePrice": 31.0,
+    "ManufacturingDate": "2025-09-05T00:00:00",
+    "ExpirationDate": "2027-09-05T00:00:00",
+    "AvailableQuantity": 130,
+    "MedicineID": 9
+  },
+  {
+    "BatchNumber": "DIC-2026-167",
+    "StorageLocation": "Shelf C-03",
+    "PurchasePrice": 32.25,
+    "ManufacturingDate": "2026-05-19T00:00:00",
+    "ExpirationDate": "2028-05-19T00:00:00",
+    "AvailableQuantity": 205,
+    "MedicineID": 9
+  },
+  {
+    "BatchNumber": "INS-2025-178",
+    "StorageLocation": "Cold Storage C-01",
+    "PurchasePrice": 72.0,
+    "ManufacturingDate": "2025-10-10T00:00:00",
+    "ExpirationDate": "2027-10-10T00:00:00",
+    "AvailableQuantity": 85,
+    "MedicineID": 10
+  },
+  {
+    "BatchNumber": "INS-2026-189",
+    "StorageLocation": "Cold Storage C-01",
+    "PurchasePrice": 74.5,
+    "ManufacturingDate": "2026-06-22T00:00:00",
+    "ExpirationDate": "2028-06-22T00:00:00",
+    "AvailableQuantity": 120,
+    "MedicineID": 10
+  },
+  {
+    "BatchNumber": "SAL-2025-201",
+    "StorageLocation": "Shelf D-01",
+    "PurchasePrice": 29.75,
+    "ManufacturingDate": "2025-11-03T00:00:00",
+    "ExpirationDate": "2027-11-03T00:00:00",
+    "AvailableQuantity": 145,
+    "MedicineID": 11
+  },
+  {
+    "BatchNumber": "SAL-2026-214",
+    "StorageLocation": "Shelf D-01",
+    "PurchasePrice": 31.0,
+    "ManufacturingDate": "2026-02-25T00:00:00",
+    "ExpirationDate": "2028-02-25T00:00:00",
+    "AvailableQuantity": 220,
+    "MedicineID": 11
+  },
+  {
+    "BatchNumber": "AZI-2025-225",
+    "StorageLocation": "Shelf D-02",
+    "PurchasePrice": 55.0,
+    "ManufacturingDate": "2025-12-12T00:00:00",
+    "ExpirationDate": "2027-12-12T00:00:00",
+    "AvailableQuantity": 100,
+    "MedicineID": 12
+  },
+  {
+    "BatchNumber": "AZI-2026-237",
+    "StorageLocation": "Shelf D-02",
+    "PurchasePrice": 57.5,
+    "ManufacturingDate": "2026-05-28T00:00:00",
+    "ExpirationDate": "2028-05-28T00:00:00",
+    "AvailableQuantity": 160,
+    "MedicineID": 12
+  },
+  {
+    "BatchNumber": "LOS-2025-249",
+    "StorageLocation": "Shelf D-03",
+    "PurchasePrice": 46.0,
+    "ManufacturingDate": "2025-08-14T00:00:00",
+    "ExpirationDate": "2027-08-14T00:00:00",
+    "AvailableQuantity": 115,
+    "MedicineID": 13
+  },
+  {
+    "BatchNumber": "LOS-2026-258",
+    "StorageLocation": "Shelf D-03",
+    "PurchasePrice": 48.25,
+    "ManufacturingDate": "2026-03-30T00:00:00",
+    "ExpirationDate": "2028-03-30T00:00:00",
+    "AvailableQuantity": 190,
+    "MedicineID": 13
+  },
+  {
+    "BatchNumber": "ATOR-2025-269",
+    "StorageLocation": "Shelf E-01",
+    "PurchasePrice": 68.5,
+    "ManufacturingDate": "2025-07-19T00:00:00",
+    "ExpirationDate": "2027-07-19T00:00:00",
+    "AvailableQuantity": 105,
+    "MedicineID": 14
+  },
+  {
+    "BatchNumber": "ATOR-2026-274",
+    "StorageLocation": "Shelf E-01",
+    "PurchasePrice": 71.0,
+    "ManufacturingDate": "2026-04-12T00:00:00",
+    "ExpirationDate": "2028-04-12T00:00:00",
+    "AvailableQuantity": 165,
+    "MedicineID": 14
+  },
+  {
+    "BatchNumber": "PANT-2025-281",
+    "StorageLocation": "Shelf E-02",
+    "PurchasePrice": 43.0,
+    "ManufacturingDate": "2025-09-27T00:00:00",
+    "ExpirationDate": "2027-09-27T00:00:00",
+    "AvailableQuantity": 150,
+    "MedicineID": 15
+  },
+  {
+    "BatchNumber": "PANT-2026-293",
+    "StorageLocation": "Shelf E-02",
+    "PurchasePrice": 45.25,
+    "ManufacturingDate": "2026-05-09T00:00:00",
+    "ExpirationDate": "2028-05-09T00:00:00",
+    "AvailableQuantity": 230,
+    "MedicineID": 15
+  },
+  {
+    "BatchNumber": "DOL-2025-304",
+    "StorageLocation": "Shelf E-03",
+    "PurchasePrice": 34.5,
+    "ManufacturingDate": "2025-10-15T00:00:00",
+    "ExpirationDate": "2027-10-15T00:00:00",
+    "AvailableQuantity": 125,
+    "MedicineID": 16
+  },
+  {
+    "BatchNumber": "DOL-2026-318",
+    "StorageLocation": "Shelf E-03",
+    "PurchasePrice": 36.0,
+    "ManufacturingDate": "2026-06-01T00:00:00",
+    "ExpirationDate": "2028-06-01T00:00:00",
+    "AvailableQuantity": 200,
+    "MedicineID": 16
+  },
+  {
+    "BatchNumber": "CLAR-2025-327",
+    "StorageLocation": "Shelf F-01",
+    "PurchasePrice": 41.5,
+    "ManufacturingDate": "2025-06-25T00:00:00",
+    "ExpirationDate": "2027-06-25T00:00:00",
+    "AvailableQuantity": 135,
+    "MedicineID": 17
+  },
+  {
+    "BatchNumber": "CLAR-2026-339",
+    "StorageLocation": "Shelf F-01",
+    "PurchasePrice": 43.0,
+    "ManufacturingDate": "2026-04-25T00:00:00",
+    "ExpirationDate": "2028-04-25T00:00:00",
+    "AvailableQuantity": 210,
+    "MedicineID": 17
+  },
+  {
+    "BatchNumber": "MONT-2025-348",
+    "StorageLocation": "Shelf F-02",
+    "PurchasePrice": 58.0,
+    "ManufacturingDate": "2025-11-21T00:00:00",
+    "ExpirationDate": "2027-11-21T00:00:00",
+    "AvailableQuantity": 90,
+    "MedicineID": 18
+  },
+  {
+    "BatchNumber": "MONT-2026-352",
+    "StorageLocation": "Shelf F-02",
+    "PurchasePrice": 60.5,
+    "ManufacturingDate": "2026-05-17T00:00:00",
+    "ExpirationDate": "2028-05-17T00:00:00",
+    "AvailableQuantity": 140,
+    "MedicineID": 18
+  },
+  {
+    "BatchNumber": "GLI-2025-364",
+    "StorageLocation": "Shelf F-03",
+    "PurchasePrice": 39.0,
+    "ManufacturingDate": "2025-08-30T00:00:00",
+    "ExpirationDate": "2027-08-30T00:00:00",
+    "AvailableQuantity": 120,
+    "MedicineID": 19
+  },
+  {
+    "BatchNumber": "GLI-2026-379",
+    "StorageLocation": "Shelf F-03",
+    "PurchasePrice": 41.25,
+    "ManufacturingDate": "2026-03-18T00:00:00",
+    "ExpirationDate": "2028-03-18T00:00:00",
+    "AvailableQuantity": 185,
+    "MedicineID": 19
+  },
+  {
+    "BatchNumber": "AMLO-2025-386",
+    "StorageLocation": "Shelf G-01",
+    "PurchasePrice": 28.5,
+    "ManufacturingDate": "2025-05-16T00:00:00",
+    "ExpirationDate": "2027-05-16T00:00:00",
+    "AvailableQuantity": 170,
+    "MedicineID": 20
+  },
+  {
+    "BatchNumber": "AMLO-2026-394",
+    "StorageLocation": "Shelf G-01",
+    "PurchasePrice": 30.0,
+    "ManufacturingDate": "2026-02-12T00:00:00",
+    "ExpirationDate": "2028-02-12T00:00:00",
+    "AvailableQuantity": 260,
+    "MedicineID": 20
+  },
+  {
+    "BatchNumber": "LEV-2025-405",
+    "StorageLocation": "Shelf G-02",
+    "PurchasePrice": 49.5,
+    "ManufacturingDate": "2025-10-02T00:00:00",
+    "ExpirationDate": "2027-10-02T00:00:00",
+    "AvailableQuantity": 100,
+    "MedicineID": 21
+  },
+  {
+    "BatchNumber": "LEV-2026-419",
+    "StorageLocation": "Shelf G-02",
+    "PurchasePrice": 52.0,
+    "ManufacturingDate": "2026-06-05T00:00:00",
+    "ExpirationDate": "2028-06-05T00:00:00",
+    "AvailableQuantity": 155,
+    "MedicineID": 21
+  },
+  {
+    "BatchNumber": "ENAL-2025-428",
+    "StorageLocation": "Shelf G-03",
+    "PurchasePrice": 26.0,
+    "ManufacturingDate": "2025-04-23T00:00:00",
+    "ExpirationDate": "2027-04-23T00:00:00",
+    "AvailableQuantity": 145,
+    "MedicineID": 22
+  },
+  {
+    "BatchNumber": "ENAL-2026-436",
+    "StorageLocation": "Shelf G-03",
+    "PurchasePrice": 27.75,
+    "ManufacturingDate": "2026-03-11T00:00:00",
+    "ExpirationDate": "2028-03-11T00:00:00",
+    "AvailableQuantity": 215,
+    "MedicineID": 22
+  },
+  {
+    "BatchNumber": "METF-2025-447",
+    "StorageLocation": "Shelf H-01",
+    "PurchasePrice": 22.5,
+    "ManufacturingDate": "2025-12-05T00:00:00",
+    "ExpirationDate": "2027-12-05T00:00:00",
+    "AvailableQuantity": 190,
+    "MedicineID": 23
+  },
+  {
+    "BatchNumber": "METF-2026-459",
+    "StorageLocation": "Shelf H-01",
+    "PurchasePrice": 24.0,
+    "ManufacturingDate": "2026-05-02T00:00:00",
+    "ExpirationDate": "2028-05-02T00:00:00",
+    "AvailableQuantity": 300,
+    "MedicineID": 23
+  },
+  {
+    "BatchNumber": "GLIM-2025-468",
+    "StorageLocation": "Shelf H-02",
+    "PurchasePrice": 37.5,
+    "ManufacturingDate": "2025-09-09T00:00:00",
+    "ExpirationDate": "2027-09-09T00:00:00",
+    "AvailableQuantity": 110,
+    "MedicineID": 24
+  },
+  {
+    "BatchNumber": "GLIM-2026-477",
+    "StorageLocation": "Shelf H-02",
+    "PurchasePrice": 39.25,
+    "ManufacturingDate": "2026-04-03T00:00:00",
+    "ExpirationDate": "2028-04-03T00:00:00",
+    "AvailableQuantity": 175,
+    "MedicineID": 24
+  },
+  {
+    "BatchNumber": "CELE-2025-486",
+    "StorageLocation": "Shelf H-03",
+    "PurchasePrice": 63.0,
+    "ManufacturingDate": "2025-11-14T00:00:00",
+    "ExpirationDate": "2027-11-14T00:00:00",
+    "AvailableQuantity": 85,
+    "MedicineID": 25
+  },
+  {
+    "BatchNumber": "CELE-2026-498",
+    "StorageLocation": "Shelf H-03",
+    "PurchasePrice": 65.5,
+    "ManufacturingDate": "2026-06-12T00:00:00",
+    "ExpirationDate": "2028-06-12T00:00:00",
+    "AvailableQuantity": 135,
+    "MedicineID": 25
+  },
+  {
+    "BatchNumber": "IBU-2025-507",
+    "StorageLocation": "Shelf I-01",
+    "PurchasePrice": 33.0,
+    "ManufacturingDate": "2025-03-29T00:00:00",
+    "ExpirationDate": "2027-03-29T00:00:00",
+    "AvailableQuantity": 180,
+    "MedicineID": 26
+  },
+  {
+    "BatchNumber": "IBU-2026-519",
+    "StorageLocation": "Shelf I-01",
+    "PurchasePrice": 35.0,
+    "ManufacturingDate": "2026-05-21T00:00:00",
+    "ExpirationDate": "2028-05-21T00:00:00",
+    "AvailableQuantity": 270,
+    "MedicineID": 26
+  },
+  {
+    "BatchNumber": "DEX-2025-528",
+    "StorageLocation": "Shelf I-02",
+    "PurchasePrice": 45.0,
+    "ManufacturingDate": "2025-07-27T00:00:00",
+    "ExpirationDate": "2027-07-27T00:00:00",
+    "AvailableQuantity": 95,
+    "MedicineID": 27
+  },
+  {
+    "BatchNumber": "DEX-2026-533",
+    "StorageLocation": "Shelf I-02",
+    "PurchasePrice": 47.5,
+    "ManufacturingDate": "2026-03-26T00:00:00",
+    "ExpirationDate": "2028-03-26T00:00:00",
+    "AvailableQuantity": 145,
+    "MedicineID": 27
+  },
+  {
+    "BatchNumber": "CEF-2025-544",
+    "StorageLocation": "Shelf I-03",
+    "PurchasePrice": 88.0,
+    "ManufacturingDate": "2025-08-07T00:00:00",
+    "ExpirationDate": "2027-08-07T00:00:00",
+    "AvailableQuantity": 75,
+    "MedicineID": 28
+  },
+  {
+    "BatchNumber": "CEF-2026-558",
+    "StorageLocation": "Shelf I-03",
+    "PurchasePrice": 92.0,
+    "ManufacturingDate": "2026-04-16T00:00:00",
+    "ExpirationDate": "2028-04-16T00:00:00",
+    "AvailableQuantity": 110,
+    "MedicineID": 28
+  },
+  {
+    "BatchNumber": "AUG-2025-567",
+    "StorageLocation": "Shelf J-01",
+    "PurchasePrice": 51.0,
+    "ManufacturingDate": "2025-10-24T00:00:00",
+    "ExpirationDate": "2027-10-24T00:00:00",
+    "AvailableQuantity": 105,
+    "MedicineID": 29
+  },
+  {
+    "BatchNumber": "AUG-2026-579",
+    "StorageLocation": "Shelf J-01",
+    "PurchasePrice": 54.0,
+    "ManufacturingDate": "2026-05-25T00:00:00",
+    "ExpirationDate": "2028-05-25T00:00:00",
+    "AvailableQuantity": 160,
+    "MedicineID": 29
+  },
+  {
+    "BatchNumber": "RAN-2025-588",
+    "StorageLocation": "Shelf J-02",
+    "PurchasePrice": 44.5,
+    "ManufacturingDate": "2025-06-17T00:00:00",
+    "ExpirationDate": "2027-06-17T00:00:00",
+    "AvailableQuantity": 120,
+    "MedicineID": 30
+  },
+  {
+    "BatchNumber": "RAN-2026-591",
+    "StorageLocation": "Shelf J-02",
+    "PurchasePrice": 46.75,
+    "ManufacturingDate": "2026-02-28T00:00:00",
+    "ExpirationDate": "2028-02-28T00:00:00",
+    "AvailableQuantity": 185,
+    "MedicineID": 30
+  }
+]

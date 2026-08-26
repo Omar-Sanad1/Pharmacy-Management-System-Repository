@@ -1,0 +1,352 @@
+﻿[
+  {
+    "UserName": "admin.ahmed",
+    "EmailAddress": "admin.ahmed@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0001ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-01-10T00:00:00",
+    "RoleID": 1
+  },
+  {
+    "UserName": "owner.mohamed",
+    "EmailAddress": "owner.mohamed@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0002ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-01-15T00:00:00",
+    "RoleID": 2
+  },
+  {
+    "UserName": "manager.omar",
+    "EmailAddress": "manager.omar@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0003ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-01-20T00:00:00",
+    "RoleID": 3
+  },
+  {
+    "UserName": "pharmacist.youssef",
+    "EmailAddress": "pharmacist.youssef@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0004ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-01-25T00:00:00",
+    "RoleID": 4
+  },
+  {
+    "UserName": "cashier.karim",
+    "EmailAddress": "cashier.karim@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0005ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-01-30T00:00:00",
+    "RoleID": 5
+  },
+  {
+    "UserName": "inventory.mostafa",
+    "EmailAddress": "inventory.mostafa@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0006ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-02-04T00:00:00",
+    "RoleID": 6
+  },
+  {
+    "UserName": "purchasing.tarek",
+    "EmailAddress": "purchasing.tarek@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0007ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-02-09T00:00:00",
+    "RoleID": 7
+  },
+  {
+    "UserName": "customer.amr",
+    "EmailAddress": "customer.amr@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0008ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-02-14T00:00:00",
+    "RoleID": 8
+  },
+  {
+    "UserName": "admin.hany",
+    "EmailAddress": "admin.hany@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0009ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-02-19T00:00:00",
+    "RoleID": 1
+  },
+  {
+    "UserName": "owner.mahmoud",
+    "EmailAddress": "owner.mahmoud@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0010ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-02-24T00:00:00",
+    "RoleID": 2
+  },
+  {
+    "UserName": "manager.islam",
+    "EmailAddress": "manager.islam@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0011ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-03-01T00:00:00",
+    "RoleID": 3
+  },
+  {
+    "UserName": "pharmacist.sherif",
+    "EmailAddress": "pharmacist.sherif@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0012ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-03-06T00:00:00",
+    "RoleID": 4
+  },
+  {
+    "UserName": "cashier.walid",
+    "EmailAddress": "cashier.walid@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0013ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-03-11T00:00:00",
+    "RoleID": 5
+  },
+  {
+    "UserName": "inventory.khaled",
+    "EmailAddress": "inventory.khaled@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0014ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-03-16T00:00:00",
+    "RoleID": 6
+  },
+  {
+    "UserName": "purchasing.ehab",
+    "EmailAddress": "purchasing.ehab@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0015ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-03-21T00:00:00",
+    "RoleID": 7
+  },
+  {
+    "UserName": "customer.ayman",
+    "EmailAddress": "customer.ayman@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0016ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-03-26T00:00:00",
+    "RoleID": 8
+  },
+  {
+    "UserName": "admin.mina",
+    "EmailAddress": "admin.mina@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0017ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-03-31T00:00:00",
+    "RoleID": 1
+  },
+  {
+    "UserName": "owner.george",
+    "EmailAddress": "owner.george@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0018ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-04-05T00:00:00",
+    "RoleID": 2
+  },
+  {
+    "UserName": "manager.peter",
+    "EmailAddress": "manager.peter@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0019ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-04-10T00:00:00",
+    "RoleID": 3
+  },
+  {
+    "UserName": "pharmacist.mahmoud",
+    "EmailAddress": "pharmacist.mahmoud@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0020ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-04-15T00:00:00",
+    "RoleID": 4
+  },
+  {
+    "UserName": "cashier.ahmed",
+    "EmailAddress": "cashier.ahmed@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0021ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-04-20T00:00:00",
+    "RoleID": 5
+  },
+  {
+    "UserName": "inventory.mohamed",
+    "EmailAddress": "inventory.mohamed@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0022ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-04-25T00:00:00",
+    "RoleID": 6
+  },
+  {
+    "UserName": "purchasing.hossam",
+    "EmailAddress": "purchasing.hossam@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0023ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-04-30T00:00:00",
+    "RoleID": 7
+  },
+  {
+    "UserName": "customer.wael",
+    "EmailAddress": "customer.wael@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0024ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-05-05T00:00:00",
+    "RoleID": 8
+  },
+  {
+    "UserName": "admin.hatem",
+    "EmailAddress": "admin.hatem@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0025ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-05-10T00:00:00",
+    "RoleID": 1
+  },
+  {
+    "UserName": "owner.sayed",
+    "EmailAddress": "owner.sayed@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0026ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-05-15T00:00:00",
+    "RoleID": 2
+  },
+  {
+    "UserName": "manager.sherif",
+    "EmailAddress": "manager.sherif@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0027ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-05-20T00:00:00",
+    "RoleID": 3
+  },
+  {
+    "UserName": "pharmacist.ahmed",
+    "EmailAddress": "pharmacist.ahmed@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0028ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-05-25T00:00:00",
+    "RoleID": 4
+  },
+  {
+    "UserName": "cashier.adel",
+    "EmailAddress": "cashier.adel@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0029ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-05-30T00:00:00",
+    "RoleID": 5
+  },
+  {
+    "UserName": "inventory.nour",
+    "EmailAddress": "inventory.nour@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0030ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-06-04T00:00:00",
+    "RoleID": 6
+  },
+  {
+    "UserName": "purchasing.samer",
+    "EmailAddress": "purchasing.samer@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0031ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-06-09T00:00:00",
+    "RoleID": 7
+  },
+  {
+    "UserName": "customer.ali",
+    "EmailAddress": "customer.ali@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0032ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-06-14T00:00:00",
+    "RoleID": 8
+  },
+  {
+    "UserName": "admin.khaled",
+    "EmailAddress": "admin.khaled@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0033ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-06-19T00:00:00",
+    "RoleID": 1
+  },
+  {
+    "UserName": "owner.tamer",
+    "EmailAddress": "owner.tamer@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0034ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-06-24T00:00:00",
+    "RoleID": 2
+  },
+  {
+    "UserName": "manager.yasser",
+    "EmailAddress": "manager.yasser@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0035ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-06-29T00:00:00",
+    "RoleID": 3
+  },
+  {
+    "UserName": "pharmacist.nader",
+    "EmailAddress": "pharmacist.nader@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0036ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-07-04T00:00:00",
+    "RoleID": 4
+  },
+  {
+    "UserName": "cashier.samir",
+    "EmailAddress": "cashier.samir@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0037ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-07-09T00:00:00",
+    "RoleID": 5
+  },
+  {
+    "UserName": "inventory.eslam",
+    "EmailAddress": "inventory.eslam@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0038ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-07-14T00:00:00",
+    "RoleID": 6
+  },
+  {
+    "UserName": "purchasing.maged",
+    "EmailAddress": "purchasing.maged@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0039ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-07-19T00:00:00",
+    "RoleID": 7
+  },
+  {
+    "UserName": "customer.fady",
+    "EmailAddress": "customer.fady@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0040ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-07-24T00:00:00",
+    "RoleID": 8
+  },
+  {
+    "UserName": "admin.omar",
+    "EmailAddress": "admin.omar@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0041ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-07-29T00:00:00",
+    "RoleID": 1
+  },
+  {
+    "UserName": "owner.ahmed",
+    "EmailAddress": "owner.ahmed@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0042ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-08-03T00:00:00",
+    "RoleID": 2
+  },
+  {
+    "UserName": "manager.mohamed",
+    "EmailAddress": "manager.mohamed@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0043ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-08-08T00:00:00",
+    "RoleID": 3
+  },
+  {
+    "UserName": "pharmacist.karim",
+    "EmailAddress": "pharmacist.karim@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0044ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-08-13T00:00:00",
+    "RoleID": 4
+  },
+  {
+    "UserName": "cashier.mostafa",
+    "EmailAddress": "cashier.mostafa@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0045ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-08-18T00:00:00",
+    "RoleID": 5
+  },
+  {
+    "UserName": "inventory.hassan",
+    "EmailAddress": "inventory.hassan@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0046ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-08-23T00:00:00",
+    "RoleID": 6
+  },
+  {
+    "UserName": "purchasing.george",
+    "EmailAddress": "purchasing.george@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0047ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-08-28T00:00:00",
+    "RoleID": 7
+  },
+  {
+    "UserName": "customer.youssef",
+    "EmailAddress": "customer.youssef@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0048ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-09-02T00:00:00",
+    "RoleID": 8
+  },
+  {
+    "UserName": "admin.ali",
+    "EmailAddress": "admin.ali@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0049ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-09-07T00:00:00",
+    "RoleID": 1
+  },
+  {
+    "UserName": "customer.nabil",
+    "EmailAddress": "customer.nabil@pharmacymgmt.com",
+    "PasswordHash": "$2b$12$PharmacySeedHash0050ExampleOnlyNotForProduction",
+    "CreatedAt": "2025-09-12T00:00:00",
+    "RoleID": 2
+  }
+]

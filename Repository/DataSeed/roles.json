@@ -1,0 +1,26 @@
+﻿[
+  {
+    "RoleName": "System Administrator"
+  },
+  {
+    "RoleName": "Pharmacy Owner"
+  },
+  {
+    "RoleName": "Branch Manager"
+  },
+  {
+    "RoleName": "Pharmacist"
+  },
+  {
+    "RoleName": "Cashier"
+  },
+  {
+    "RoleName": "Inventory Controller"
+  },
+  {
+    "RoleName": "Purchasing Officer"
+  },
+  {
+    "RoleName": "Customer"
+  }
+]

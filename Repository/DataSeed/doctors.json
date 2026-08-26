@@ -1,0 +1,452 @@
+﻿[
+  {
+    "FullName": "Dr. Ahmed Mohamed Hassan",
+    "PhoneNumber": "01020000001",
+    "Specialization": "Internal Medicine",
+    "LicenseNumber": "EG-MD-10001",
+    "MedicalFacility": "Cairo Medical Center",
+    "Status": "Active",
+    "BranchID": 1
+  },
+  {
+    "FullName": "Dr. Mohamed Ahmed Ali",
+    "PhoneNumber": "01020000002",
+    "Specialization": "Cardiology",
+    "LicenseNumber": "EG-MD-10002",
+    "MedicalFacility": "Heliopolis Specialized Hospital",
+    "Status": "Active",
+    "BranchID": 2
+  },
+  {
+    "FullName": "Dr. Omar Khaled Mahmoud",
+    "PhoneNumber": "01020000003",
+    "Specialization": "Dermatology",
+    "LicenseNumber": "EG-MD-10003",
+    "MedicalFacility": "New Cairo Medical Center",
+    "Status": "Active",
+    "BranchID": 3
+  },
+  {
+    "FullName": "Dr. Youssef Samir Hassan",
+    "PhoneNumber": "01020000004",
+    "Specialization": "Pediatrics",
+    "LicenseNumber": "EG-MD-10004",
+    "MedicalFacility": "Maadi Children Hospital",
+    "Status": "Active",
+    "BranchID": 4
+  },
+  {
+    "FullName": "Dr. Karim Adel Ibrahim",
+    "PhoneNumber": "01020000005",
+    "Specialization": "Orthopedics",
+    "LicenseNumber": "EG-MD-10005",
+    "MedicalFacility": "Dokki Medical Center",
+    "Status": "Active",
+    "BranchID": 5
+  },
+  {
+    "FullName": "Dr. Mostafa Ibrahim Ali",
+    "PhoneNumber": "01020000006",
+    "Specialization": "Internal Medicine",
+    "LicenseNumber": "EG-MD-10006",
+    "MedicalFacility": "Mohandessin Medical Center",
+    "Status": "Active",
+    "BranchID": 6
+  },
+  {
+    "FullName": "Dr. Tarek Hassan Mahmoud",
+    "PhoneNumber": "01020000007",
+    "Specialization": "Endocrinology",
+    "LicenseNumber": "EG-MD-10007",
+    "MedicalFacility": "Giza Diabetes Center",
+    "Status": "Active",
+    "BranchID": 7
+  },
+  {
+    "FullName": "Dr. Amr Khaled Nabil",
+    "PhoneNumber": "01020000008",
+    "Specialization": "ENT",
+    "LicenseNumber": "EG-MD-10008",
+    "MedicalFacility": "Faisal Medical Center",
+    "Status": "Active",
+    "BranchID": 8
+  },
+  {
+    "FullName": "Dr. Hany Nabil Fathy",
+    "PhoneNumber": "01020000009",
+    "Specialization": "Ophthalmology",
+    "LicenseNumber": "EG-MD-10009",
+    "MedicalFacility": "Al Haram Eye Center",
+    "Status": "Active",
+    "BranchID": 9
+  },
+  {
+    "FullName": "Dr. Mahmoud Fathy Ahmed",
+    "PhoneNumber": "01020000010",
+    "Specialization": "Cardiology",
+    "LicenseNumber": "EG-MD-10010",
+    "MedicalFacility": "October Heart Center",
+    "Status": "Active",
+    "BranchID": 10
+  },
+  {
+    "FullName": "Dr. Islam Ahmed Sherif",
+    "PhoneNumber": "01020000011",
+    "Specialization": "Neurology",
+    "LicenseNumber": "EG-MD-10011",
+    "MedicalFacility": "Sheikh Zayed Medical Center",
+    "Status": "Active",
+    "BranchID": 11
+  },
+  {
+    "FullName": "Dr. Sherif Mostafa Ali",
+    "PhoneNumber": "01020000012",
+    "Specialization": "General Surgery",
+    "LicenseNumber": "EG-MD-10012",
+    "MedicalFacility": "Zayed Specialized Hospital",
+    "Status": "Active",
+    "BranchID": 12
+  },
+  {
+    "FullName": "Dr. Walid Hassan Ali",
+    "PhoneNumber": "01020000013",
+    "Specialization": "Gastroenterology",
+    "LicenseNumber": "EG-MD-10013",
+    "MedicalFacility": "Imbaba Medical Center",
+    "Status": "Active",
+    "BranchID": 13
+  },
+  {
+    "FullName": "Dr. Khaled Adel Mohamed",
+    "PhoneNumber": "01020000014",
+    "Specialization": "Pulmonology",
+    "LicenseNumber": "EG-MD-10014",
+    "MedicalFacility": "Agouza Chest Center",
+    "Status": "Active",
+    "BranchID": 14
+  },
+  {
+    "FullName": "Dr. Ehab Mohamed Salah",
+    "PhoneNumber": "01020000015",
+    "Specialization": "Internal Medicine",
+    "LicenseNumber": "EG-MD-10015",
+    "MedicalFacility": "Downtown Medical Center",
+    "Status": "Active",
+    "BranchID": 15
+  },
+  {
+    "FullName": "Dr. Ayman Salah Hassan",
+    "PhoneNumber": "01020000016",
+    "Specialization": "Dermatology",
+    "LicenseNumber": "EG-MD-10016",
+    "MedicalFacility": "Nasr City Skin Clinic",
+    "Status": "Active",
+    "BranchID": 16
+  },
+  {
+    "FullName": "Dr. Mina George Nader",
+    "PhoneNumber": "01020000017",
+    "Specialization": "Pediatrics",
+    "LicenseNumber": "EG-MD-10017",
+    "MedicalFacility": "Heliopolis Children Center",
+    "Status": "Active",
+    "BranchID": 17
+  },
+  {
+    "FullName": "Dr. George Nader Sameh",
+    "PhoneNumber": "01020000018",
+    "Specialization": "Orthopedics",
+    "LicenseNumber": "EG-MD-10018",
+    "MedicalFacility": "Abbassia Orthopedic Center",
+    "Status": "Active",
+    "BranchID": 18
+  },
+  {
+    "FullName": "Dr. Peter Sameh George",
+    "PhoneNumber": "01020000019",
+    "Specialization": "Family Medicine",
+    "LicenseNumber": "EG-MD-10019",
+    "MedicalFacility": "Shubra Family Clinic",
+    "Status": "Active",
+    "BranchID": 19
+  },
+  {
+    "FullName": "Dr. Mahmoud Atef Hassan",
+    "PhoneNumber": "01020000020",
+    "Specialization": "Cardiology",
+    "LicenseNumber": "EG-MD-10020",
+    "MedicalFacility": "Qalyub Heart Center",
+    "Status": "Active",
+    "BranchID": 20
+  },
+  {
+    "FullName": "Dr. Ahmed Saad Mohamed",
+    "PhoneNumber": "01020000021",
+    "Specialization": "Internal Medicine",
+    "LicenseNumber": "EG-MD-10021",
+    "MedicalFacility": "Banha Medical Center",
+    "Status": "Active",
+    "BranchID": 21
+  },
+  {
+    "FullName": "Dr. Mohamed Gamal Ahmed",
+    "PhoneNumber": "01020000022",
+    "Specialization": "Pediatrics",
+    "LicenseNumber": "EG-MD-10022",
+    "MedicalFacility": "Shubra El Kheima Children Center",
+    "Status": "Active",
+    "BranchID": 22
+  },
+  {
+    "FullName": "Dr. Hossam Younis Ali",
+    "PhoneNumber": "01020000023",
+    "Specialization": "Dermatology",
+    "LicenseNumber": "EG-MD-10023",
+    "MedicalFacility": "Tanta Dermatology Center",
+    "Status": "Active",
+    "BranchID": 23
+  },
+  {
+    "FullName": "Dr. Wael Ahmed Ibrahim",
+    "PhoneNumber": "01020000024",
+    "Specialization": "Endocrinology",
+    "LicenseNumber": "EG-MD-10024",
+    "MedicalFacility": "Mansoura Diabetes Center",
+    "Status": "Active",
+    "BranchID": 24
+  },
+  {
+    "FullName": "Dr. Hatem Ibrahim Hassan",
+    "PhoneNumber": "01020000025",
+    "Specialization": "Neurology",
+    "LicenseNumber": "EG-MD-10025",
+    "MedicalFacility": "Zagazig Neurology Center",
+    "Status": "Active",
+    "BranchID": 25
+  },
+  {
+    "FullName": "Dr. Sherif Hassan Ahmed",
+    "PhoneNumber": "01020000026",
+    "Specialization": "General Surgery",
+    "LicenseNumber": "EG-MD-10026",
+    "MedicalFacility": "Ismailia Medical Center",
+    "Status": "Active",
+    "BranchID": 26
+  },
+  {
+    "FullName": "Dr. Ahmed Emad Mohamed",
+    "PhoneNumber": "01020000027",
+    "Specialization": "Cardiology",
+    "LicenseNumber": "EG-MD-10027",
+    "MedicalFacility": "Port Said Heart Institute",
+    "Status": "Active",
+    "BranchID": 27
+  },
+  {
+    "FullName": "Dr. Mahmoud Hassan Ali",
+    "PhoneNumber": "01020000028",
+    "Specialization": "Internal Medicine",
+    "LicenseNumber": "EG-MD-10028",
+    "MedicalFacility": "Suez General Hospital",
+    "Status": "Active",
+    "BranchID": 28
+  },
+  {
+    "FullName": "Dr. Karim Mohamed Adel",
+    "PhoneNumber": "01020000029",
+    "Specialization": "Orthopedics",
+    "LicenseNumber": "EG-MD-10029",
+    "MedicalFacility": "Alexandria Orthopedic Center",
+    "Status": "Active",
+    "BranchID": 29
+  },
+  {
+    "FullName": "Dr. Adel Farouk Hassan",
+    "PhoneNumber": "01020000030",
+    "Specialization": "Ophthalmology",
+    "LicenseNumber": "EG-MD-10030",
+    "MedicalFacility": "Miami Eye Center",
+    "Status": "Active",
+    "BranchID": 30
+  },
+  {
+    "FullName": "Dr. Nour El Din Ali Hassan",
+    "PhoneNumber": "01020000031",
+    "Specialization": "Cardiology",
+    "LicenseNumber": "EG-MD-10031",
+    "MedicalFacility": "Stanley Heart Center",
+    "Status": "Active",
+    "BranchID": 31
+  },
+  {
+    "FullName": "Dr. Sayed Ahmed Mahmoud",
+    "PhoneNumber": "01020000032",
+    "Specialization": "Gastroenterology",
+    "LicenseNumber": "EG-MD-10032",
+    "MedicalFacility": "Damanhur Medical Center",
+    "Status": "Active",
+    "BranchID": 32
+  },
+  {
+    "FullName": "Dr. Mohamed Wael Hassan",
+    "PhoneNumber": "01020000033",
+    "Specialization": "Internal Medicine",
+    "LicenseNumber": "EG-MD-10033",
+    "MedicalFacility": "Kafr El Sheikh Medical Center",
+    "Status": "Active",
+    "BranchID": 33
+  },
+  {
+    "FullName": "Dr. Hany Ahmed Fathy",
+    "PhoneNumber": "01020000034",
+    "Specialization": "Pediatrics",
+    "LicenseNumber": "EG-MD-10034",
+    "MedicalFacility": "Damietta Children Center",
+    "Status": "Active",
+    "BranchID": 34
+  },
+  {
+    "FullName": "Dr. Ashraf Mahmoud Ali",
+    "PhoneNumber": "01020000035",
+    "Specialization": "Dermatology",
+    "LicenseNumber": "EG-MD-10035",
+    "MedicalFacility": "Minya Skin Center",
+    "Status": "Active",
+    "BranchID": 35
+  },
+  {
+    "FullName": "Dr. Mostafa Hassan Ahmed",
+    "PhoneNumber": "01020000036",
+    "Specialization": "Cardiology",
+    "LicenseNumber": "EG-MD-10036",
+    "MedicalFacility": "Assiut Heart Center",
+    "Status": "Active",
+    "BranchID": 36
+  },
+  {
+    "FullName": "Dr. Ahmed Fathy Mohamed",
+    "PhoneNumber": "01020000037",
+    "Specialization": "Internal Medicine",
+    "LicenseNumber": "EG-MD-10037",
+    "MedicalFacility": "Sohag Medical Center",
+    "Status": "Active",
+    "BranchID": 37
+  },
+  {
+    "FullName": "Dr. Omar Adel Hassan",
+    "PhoneNumber": "01020000038",
+    "Specialization": "Pulmonology",
+    "LicenseNumber": "EG-MD-10038",
+    "MedicalFacility": "Qena Chest Center",
+    "Status": "Active",
+    "BranchID": 38
+  },
+  {
+    "FullName": "Dr. Khaled Mohamed Ali",
+    "PhoneNumber": "01020000039",
+    "Specialization": "General Surgery",
+    "LicenseNumber": "EG-MD-10039",
+    "MedicalFacility": "Luxor Medical Center",
+    "Status": "Active",
+    "BranchID": 39
+  },
+  {
+    "FullName": "Dr. Hassan Ali Mahmoud",
+    "PhoneNumber": "01020000040",
+    "Specialization": "Cardiology",
+    "LicenseNumber": "EG-MD-10040",
+    "MedicalFacility": "Aswan Heart Center",
+    "Status": "Active",
+    "BranchID": 40
+  },
+  {
+    "FullName": "Dr. Tamer Nabil Hassan",
+    "PhoneNumber": "01020000041",
+    "Specialization": "Family Medicine",
+    "LicenseNumber": "EG-MD-10041",
+    "MedicalFacility": "Fayoum Family Clinic",
+    "Status": "Active",
+    "BranchID": 41
+  },
+  {
+    "FullName": "Dr. Yasser Ahmed Ibrahim",
+    "PhoneNumber": "01020000042",
+    "Specialization": "Orthopedics",
+    "LicenseNumber": "EG-MD-10042",
+    "MedicalFacility": "Beni Suef Orthopedic Center",
+    "Status": "Active",
+    "BranchID": 42
+  },
+  {
+    "FullName": "Dr. Nader Samir Hassan",
+    "PhoneNumber": "01020000043",
+    "Specialization": "Emergency Medicine",
+    "LicenseNumber": "EG-MD-10043",
+    "MedicalFacility": "Hurghada Medical Center",
+    "Status": "Active",
+    "BranchID": 43
+  },
+  {
+    "FullName": "Dr. Samir Fouad Ali",
+    "PhoneNumber": "01020000044",
+    "Specialization": "Dermatology",
+    "LicenseNumber": "EG-MD-10044",
+    "MedicalFacility": "El Gouna Medical Center",
+    "Status": "Active",
+    "BranchID": 44
+  },
+  {
+    "FullName": "Dr. Eslam Khaled Mahmoud",
+    "PhoneNumber": "01020000045",
+    "Specialization": "Internal Medicine",
+    "LicenseNumber": "EG-MD-10045",
+    "MedicalFacility": "New Cairo Medical Center",
+    "Status": "Active",
+    "BranchID": 45
+  },
+  {
+    "FullName": "Dr. Yehia Mostafa Hassan",
+    "PhoneNumber": "01020000046",
+    "Specialization": "Pediatrics",
+    "LicenseNumber": "EG-MD-10046",
+    "MedicalFacility": "Madinaty Children Center",
+    "Status": "Active",
+    "BranchID": 46
+  },
+  {
+    "FullName": "Dr. Maged Hassan Ahmed",
+    "PhoneNumber": "01020000047",
+    "Specialization": "General Surgery",
+    "LicenseNumber": "EG-MD-10047",
+    "MedicalFacility": "Obour Surgical Center",
+    "Status": "Active",
+    "BranchID": 47
+  },
+  {
+    "FullName": "Dr. Ahmed Sherif Ali",
+    "PhoneNumber": "01020000048",
+    "Specialization": "Cardiology",
+    "LicenseNumber": "EG-MD-10048",
+    "MedicalFacility": "New Capital Heart Center",
+    "Status": "Active",
+    "BranchID": 48
+  },
+  {
+    "FullName": "Dr. Mohamed Mostafa Hassan",
+    "PhoneNumber": "01020000049",
+    "Specialization": "Ophthalmology",
+    "LicenseNumber": "EG-MD-10049",
+    "MedicalFacility": "October Gardens Eye Center",
+    "Status": "Active",
+    "BranchID": 49
+  },
+  {
+    "FullName": "Dr. Fady Nabil George",
+    "PhoneNumber": "01020000050",
+    "Specialization": "Family Medicine",
+    "LicenseNumber": "EG-MD-10050",
+    "MedicalFacility": "Nasr City Family Clinic",
+    "Status": "Active",
+    "BranchID": 50
+  }
+]

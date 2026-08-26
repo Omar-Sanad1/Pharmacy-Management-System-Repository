@@ -1,0 +1,502 @@
+﻿[
+  {
+    "BranchName": "Al Nasr Pharmacy - Nasr City",
+    "BranchCode": "PH-NC-001",
+    "PhoneNumber": "01001234567",
+    "EmailAddress": "nasrcity@pharmacycare.com",
+    "Location": "Nasr City, Cairo",
+    "Manager": "Ahmed Hassan",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Pharmacy Care - Heliopolis",
+    "BranchCode": "PH-HE-002",
+    "PhoneNumber": "01012345678",
+    "EmailAddress": "heliopolis@pharmacycare.com",
+    "Location": "Heliopolis, Cairo",
+    "Manager": "Mohamed Ali",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Life Pharmacy - New Cairo",
+    "BranchCode": "PH-NC-003",
+    "PhoneNumber": "01023456789",
+    "EmailAddress": "newcairo@pharmacycare.com",
+    "Location": "New Cairo, Cairo",
+    "Manager": "Omar Mahmoud",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "El Shorouk Pharmacy",
+    "BranchCode": "PH-SH-004",
+    "PhoneNumber": "01034567890",
+    "EmailAddress": "shorouk@pharmacycare.com",
+    "Location": "El Shorouk City, Cairo",
+    "Manager": "Karim Adel",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Care Plus Pharmacy - Maadi",
+    "BranchCode": "PH-MA-005",
+    "PhoneNumber": "01045678901",
+    "EmailAddress": "maadi@pharmacycare.com",
+    "Location": "Maadi, Cairo",
+    "Manager": "Youssef Samir",
+    "OperationalStatus": "Active",
+    "OperatingHours": 24
+  },
+  {
+    "BranchName": "Al Hayah Pharmacy - Dokki",
+    "BranchCode": "PH-DK-006",
+    "PhoneNumber": "01056789012",
+    "EmailAddress": "dokki@pharmacycare.com",
+    "Location": "Dokki, Giza",
+    "Manager": "Mostafa Ibrahim",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Green Care Pharmacy - Mohandessin",
+    "BranchCode": "PH-MH-007",
+    "PhoneNumber": "01067890123",
+    "EmailAddress": "mohandessin@pharmacycare.com",
+    "Location": "Mohandessin, Giza",
+    "Manager": "Tarek Hassan",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "El Nile Pharmacy - Giza",
+    "BranchCode": "PH-GZ-008",
+    "PhoneNumber": "01078901234",
+    "EmailAddress": "giza@pharmacycare.com",
+    "Location": "Giza Square, Giza",
+    "Manager": "Amr Khaled",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Health Point Pharmacy - Faisal",
+    "BranchCode": "PH-FS-009",
+    "PhoneNumber": "01089012345",
+    "EmailAddress": "faisal@pharmacycare.com",
+    "Location": "Faisal, Giza",
+    "Manager": "Hany Nabil",
+    "OperationalStatus": "Active",
+    "OperatingHours": 24
+  },
+  {
+    "BranchName": "Al Shifa Pharmacy - Haram",
+    "BranchCode": "PH-HR-010",
+    "PhoneNumber": "01101234567",
+    "EmailAddress": "haram@pharmacycare.com",
+    "Location": "Haram, Giza",
+    "Manager": "Mahmoud Fathy",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Prime Pharmacy - 6th of October",
+    "BranchCode": "PH-OC-011",
+    "PhoneNumber": "01112345678",
+    "EmailAddress": "october@pharmacycare.com",
+    "Location": "6th of October City, Giza",
+    "Manager": "Islam Ahmed",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Future Pharmacy - Sheikh Zayed",
+    "BranchCode": "PH-SZ-012",
+    "PhoneNumber": "01123456789",
+    "EmailAddress": "zayed@pharmacycare.com",
+    "Location": "Sheikh Zayed City, Giza",
+    "Manager": "Sherif Mostafa",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Al Amal Pharmacy - Imbaba",
+    "BranchCode": "PH-IM-013",
+    "PhoneNumber": "01134567890",
+    "EmailAddress": "imbaba@pharmacycare.com",
+    "Location": "Imbaba, Giza",
+    "Manager": "Walid Hassan",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Health First Pharmacy - Agouza",
+    "BranchCode": "PH-AG-014",
+    "PhoneNumber": "01145678901",
+    "EmailAddress": "agouza@pharmacycare.com",
+    "Location": "Agouza, Giza",
+    "Manager": "Khaled Adel",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Al Rowad Pharmacy - Downtown",
+    "BranchCode": "PH-DT-015",
+    "PhoneNumber": "01156789012",
+    "EmailAddress": "downtown@pharmacycare.com",
+    "Location": "Downtown Cairo, Cairo",
+    "Manager": "Ehab Mohamed",
+    "OperationalStatus": "Active",
+    "OperatingHours": 24
+  },
+  {
+    "BranchName": "Care Point Pharmacy - Nasr City",
+    "BranchCode": "PH-NC-016",
+    "PhoneNumber": "01167890123",
+    "EmailAddress": "nasr2@pharmacycare.com",
+    "Location": "Nasr City, Cairo",
+    "Manager": "Ayman Salah",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Al Taqwa Pharmacy - Ain Shams",
+    "BranchCode": "PH-AS-017",
+    "PhoneNumber": "01178901234",
+    "EmailAddress": "ainshams@pharmacycare.com",
+    "Location": "Ain Shams, Cairo",
+    "Manager": "Reda Mahmoud",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Wellness Pharmacy - Heliopolis",
+    "BranchCode": "PH-HE-018",
+    "PhoneNumber": "01189012345",
+    "EmailAddress": "heliopolis2@pharmacycare.com",
+    "Location": "Heliopolis, Cairo",
+    "Manager": "Mina George",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Al Borg Pharmacy - Abbassia",
+    "BranchCode": "PH-AB-019",
+    "PhoneNumber": "01201234567",
+    "EmailAddress": "abbassia@pharmacycare.com",
+    "Location": "Abbassia, Cairo",
+    "Manager": "George Nader",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Healthy Life Pharmacy - Shubra",
+    "BranchCode": "PH-SB-020",
+    "PhoneNumber": "01212345678",
+    "EmailAddress": "shoubra@pharmacycare.com",
+    "Location": "Shubra, Cairo",
+    "Manager": "Peter Sameh",
+    "OperationalStatus": "Active",
+    "OperatingHours": 24
+  },
+  {
+    "BranchName": "Al Nour Pharmacy - Qalyub",
+    "BranchCode": "PH-QB-021",
+    "PhoneNumber": "01223456789",
+    "EmailAddress": "qalyub@pharmacycare.com",
+    "Location": "Qalyub, Qalyubia",
+    "Manager": "Mahmoud Atef",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Care Pharmacy - Banha",
+    "BranchCode": "PH-BH-022",
+    "PhoneNumber": "01234567890",
+    "EmailAddress": "banha@pharmacycare.com",
+    "Location": "Banha, Qalyubia",
+    "Manager": "Ahmed Saad",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Al Seha Pharmacy - Shubra El Kheima",
+    "BranchCode": "PH-SK-023",
+    "PhoneNumber": "01245678901",
+    "EmailAddress": "shoubraelkheima@pharmacycare.com",
+    "Location": "Shubra El Kheima, Qalyubia",
+    "Manager": "Mohamed Gamal",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Life Care Pharmacy - Tanta",
+    "BranchCode": "PH-TN-024",
+    "PhoneNumber": "01256789012",
+    "EmailAddress": "tanta@pharmacycare.com",
+    "Location": "Tanta, Gharbia",
+    "Manager": "Hossam Younis",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Al Rahma Pharmacy - Mansoura",
+    "BranchCode": "PH-MN-025",
+    "PhoneNumber": "01267890123",
+    "EmailAddress": "mansoura@pharmacycare.com",
+    "Location": "Mansoura, Dakahlia",
+    "Manager": "Wael Ahmed",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Nile Care Pharmacy - Zagazig",
+    "BranchCode": "PH-ZG-026",
+    "PhoneNumber": "01278901234",
+    "EmailAddress": "zagazig@pharmacycare.com",
+    "Location": "Zagazig, Sharqia",
+    "Manager": "Hatem Ibrahim",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Al Mostashfa Pharmacy - Ismailia",
+    "BranchCode": "PH-IS-027",
+    "PhoneNumber": "01289012345",
+    "EmailAddress": "ismailia@pharmacycare.com",
+    "Location": "Ismailia, Ismailia",
+    "Manager": "Sherif Hassan",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Care Plus Pharmacy - Port Said",
+    "BranchCode": "PH-PS-028",
+    "PhoneNumber": "01501234567",
+    "EmailAddress": "portsaid@pharmacycare.com",
+    "Location": "Port Said, Port Said",
+    "Manager": "Ahmed Emad",
+    "OperationalStatus": "Active",
+    "OperatingHours": 24
+  },
+  {
+    "BranchName": "Al Hayat Pharmacy - Suez",
+    "BranchCode": "PH-SZ-029",
+    "PhoneNumber": "01512345678",
+    "EmailAddress": "suez@pharmacycare.com",
+    "Location": "Suez, Suez",
+    "Manager": "Mahmoud Hassan",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Well Care Pharmacy - Alexandria",
+    "BranchCode": "PH-AL-030",
+    "PhoneNumber": "01523456789",
+    "EmailAddress": "alexandria@pharmacycare.com",
+    "Location": "Smouha, Alexandria",
+    "Manager": "Karim Mohamed",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Al Safa Pharmacy - Miami",
+    "BranchCode": "PH-MI-031",
+    "PhoneNumber": "01534567890",
+    "EmailAddress": "miami@pharmacycare.com",
+    "Location": "Miami, Alexandria",
+    "Manager": "Adel Farouk",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Prime Care Pharmacy - Stanley",
+    "BranchCode": "PH-ST-032",
+    "PhoneNumber": "01545678901",
+    "EmailAddress": "stanley@pharmacycare.com",
+    "Location": "Stanley, Alexandria",
+    "Manager": "Nour El Din Ali",
+    "OperationalStatus": "Active",
+    "OperatingHours": 24
+  },
+  {
+    "BranchName": "Al Shorouk Pharmacy - Damanhur",
+    "BranchCode": "PH-DM-033",
+    "PhoneNumber": "01556789012",
+    "EmailAddress": "damanhur@pharmacycare.com",
+    "Location": "Damanhur, Beheira",
+    "Manager": "Sayed Ahmed",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Health Hub Pharmacy - Kafr El Sheikh",
+    "BranchCode": "PH-KS-034",
+    "PhoneNumber": "01567890123",
+    "EmailAddress": "kafrelsheikh@pharmacycare.com",
+    "Location": "Kafr El Sheikh, Kafr El Sheikh",
+    "Manager": "Mohamed Wael",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Al Eman Pharmacy - Damietta",
+    "BranchCode": "PH-DM-035",
+    "PhoneNumber": "01578901234",
+    "EmailAddress": "damietta@pharmacycare.com",
+    "Location": "Damietta, Damietta",
+    "Manager": "Hany Ahmed",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Care Life Pharmacy - Minya",
+    "BranchCode": "PH-MY-036",
+    "PhoneNumber": "01589012345",
+    "EmailAddress": "minya@pharmacycare.com",
+    "Location": "Minya, Minya",
+    "Manager": "Ashraf Mahmoud",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Al Noor Pharmacy - Assiut",
+    "BranchCode": "PH-AS-037",
+    "PhoneNumber": "01601234567",
+    "EmailAddress": "assiut@pharmacycare.com",
+    "Location": "Assiut, Assiut",
+    "Manager": "Mostafa Hassan",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Life Point Pharmacy - Sohag",
+    "BranchCode": "PH-SO-038",
+    "PhoneNumber": "01612345678",
+    "EmailAddress": "sohag@pharmacycare.com",
+    "Location": "Sohag, Sohag",
+    "Manager": "Ahmed Fathy",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Al Amal Pharmacy - Qena",
+    "BranchCode": "PH-QN-039",
+    "PhoneNumber": "01623456789",
+    "EmailAddress": "qena@pharmacycare.com",
+    "Location": "Qena, Qena",
+    "Manager": "Omar Adel",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Healthy Choice Pharmacy - Luxor",
+    "BranchCode": "PH-LX-040",
+    "PhoneNumber": "01634567890",
+    "EmailAddress": "luxor@pharmacycare.com",
+    "Location": "Luxor, Luxor",
+    "Manager": "Khaled Mohamed",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Al Hayah Pharmacy - Aswan",
+    "BranchCode": "PH-AW-041",
+    "PhoneNumber": "01645678901",
+    "EmailAddress": "aswan@pharmacycare.com",
+    "Location": "Aswan, Aswan",
+    "Manager": "Hassan Ali",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Care Point Pharmacy - Fayoum",
+    "BranchCode": "PH-FY-042",
+    "PhoneNumber": "01656789012",
+    "EmailAddress": "fayoum@pharmacycare.com",
+    "Location": "Fayoum, Fayoum",
+    "Manager": "Tamer Nabil",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Al Shifa Pharmacy - Beni Suef",
+    "BranchCode": "PH-BS-043",
+    "PhoneNumber": "01667890123",
+    "EmailAddress": "benisuef@pharmacycare.com",
+    "Location": "Beni Suef, Beni Suef",
+    "Manager": "Yasser Ahmed",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Health Care Pharmacy - Hurghada",
+    "BranchCode": "PH-HG-044",
+    "PhoneNumber": "01678901234",
+    "EmailAddress": "hurghada@pharmacycare.com",
+    "Location": "Hurghada, Red Sea",
+    "Manager": "Nader Samir",
+    "OperationalStatus": "Active",
+    "OperatingHours": 24
+  },
+  {
+    "BranchName": "Red Sea Pharmacy - El Gouna",
+    "BranchCode": "PH-EG-045",
+    "PhoneNumber": "01689012345",
+    "EmailAddress": "elgouna@pharmacycare.com",
+    "Location": "El Gouna, Red Sea",
+    "Manager": "Samir Fouad",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Al Safwa Pharmacy - New Cairo",
+    "BranchCode": "PH-NC-046",
+    "PhoneNumber": "01090123456",
+    "EmailAddress": "newcairo2@pharmacycare.com",
+    "Location": "Fifth Settlement, Cairo",
+    "Manager": "Eslam Khaled",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Medicare Pharmacy - Madinaty",
+    "BranchCode": "PH-MD-047",
+    "PhoneNumber": "01190123456",
+    "EmailAddress": "madinaty@pharmacycare.com",
+    "Location": "Madinaty, Cairo",
+    "Manager": "Yehia Mostafa",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  },
+  {
+    "BranchName": "Al Waha Pharmacy - Obour City",
+    "BranchCode": "PH-OB-048",
+    "PhoneNumber": "01290123456",
+    "EmailAddress": "obour@pharmacycare.com",
+    "Location": "Obour City, Qalyubia",
+    "Manager": "Maged Hassan",
+    "OperationalStatus": "Active",
+    "OperatingHours": 24
+  },
+  {
+    "BranchName": "Wellness Point Pharmacy - New Capital",
+    "BranchCode": "PH-NC-049",
+    "PhoneNumber": "01081234567",
+    "EmailAddress": "newcapital@pharmacycare.com",
+    "Location": "New Administrative Capital, Cairo",
+    "Manager": "Ahmed Sherif",
+    "OperationalStatus": "Active",
+    "OperatingHours": 16
+  },
+  {
+    "BranchName": "Al Etihad Pharmacy - October Gardens",
+    "BranchCode": "PH-OG-050",
+    "PhoneNumber": "01181234567",
+    "EmailAddress": "octobergardens@pharmacycare.com",
+    "Location": "October Gardens, Giza",
+    "Manager": "Mohamed Mostafa",
+    "OperationalStatus": "Active",
+    "OperatingHours": 12
+  }
+]
